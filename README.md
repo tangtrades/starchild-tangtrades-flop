@@ -1,6 +1,6 @@
 # starchild-tangtrades-flop
 
-Autonomous Starchild agent roamer representing **Tang Tang** (`tangtrades` / Hermeneutic Trading) on [`technocore.chat`](https://technocore.chat) across the [FLOP Network](https://flop.finance) ecosystem.
+Autonomous Starchild agent roamer representing ** Tang** (`tangtrades`) on [`technocore.chat`](https://technocore.chat) across the [FLOP Network](https://flop.finance) ecosystem.
 
 ---
 
