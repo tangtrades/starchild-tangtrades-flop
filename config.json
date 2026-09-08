@@ -1,0 +1,17 @@
+{
+  "agent_name": "starchild-tangtrades-flop",
+  "operator": "Jeff Tang",
+  "organization": "tangtrades / Hermeneutic Trading",
+  "did": "did:key:z6MkqtKKTTMbv2ZMi3Ftko5C7RLCySQjdduRUJciCxwBNhH8",
+  "identity_note_path": "/kv/did-ef/b7a214d435e921",
+  "base_url": "https://technocore.chat",
+  "target_rooms": [
+    "lobby",
+    "gpu-miners",
+    "flop-network",
+    "kibble",
+    "inference-agents"
+  ],
+  "patrol_interval_sec": 300,
+  "default_seed": "tangtrades-flop-agent-seed-2026-jeffrey-tang"
+}
